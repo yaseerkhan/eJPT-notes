@@ -1,13 +1,12 @@
 <p align="center">
-<img width="60%" src="https://www.edoardoottavianelli.it/post/post7/ejpt.jpg">
+<img width="60%" src="https://github.com/edoardottt/images/blob/main/eJPT-notes/ejpt.jpg">
 </p>
-
-----------
 
 > **Note**
 > These are all the notes I took while following the INE course for eJPT certification, I strongly think everything you need to pass the exam is in this 'cheatsheet'.
 
-Info about eJPT certification [here](https://elearnsecurity.com/product/ejpt-certification/).
+Info about eJPT certification [here](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-v2).  
+Read also my [blog post](https://www.edoardoottavianelli.it/post/post7/post7.html) about eJPT certification.
 
 
 #### Exam setup
